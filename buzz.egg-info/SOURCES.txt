@@ -1,0 +1,8 @@
+setup.py
+buzz/__init__.py
+buzz/generator.py
+buzz.egg-info/PKG-INFO
+buzz.egg-info/SOURCES.txt
+buzz.egg-info/dependency_links.txt
+buzz.egg-info/top_level.txt
+tests/test_generator.py
